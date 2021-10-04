@@ -1,0 +1,37 @@
+
+
+#banner{
+	color: #0051ff;
+	margin-top: 30px;
+	font-weight: 500px;
+	font-size: 100px;
+}
+
+#parent_div{
+	position: relative;
+}
+
+#ans{
+	position:absolute;
+    left: 350px;
+    top: 50px;
+    bottom: 400px;
+    color: #010802;
+	margin-top: 100px;
+	font-weight: 500px;
+	font-size: 50px;
+} 
+
+ body{
+	background-color:#3ed13e;
+}
+
+#back{
+    position: absolute;
+    left: 1090px;
+    top: 170px;
+    background-color:#ff3535;
+
+    color:#FFDA00;
+
+} 
